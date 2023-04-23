@@ -1,0 +1,5 @@
+{
+    "CodeGPT.maxTokens": 5050,
+    "CodeGPT.model": "text-davinci-003",
+    "css.format.spaceAroundSelectorSeparator": true
+}
